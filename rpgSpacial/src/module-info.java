@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author dougl
+ *
+ */
+module rpgSpacial {
+}
